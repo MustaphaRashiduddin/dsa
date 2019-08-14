@@ -1,0 +1,14 @@
+Build started at 2019-06-14T21:48:25.479441
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.45.1
+Source dir: /home/mustapha/dsa/datastructures/recursion/mergesort
+Build dir: /home/mustapha/dsa/datastructures/recursion/mergesort/build
+Build type: native build
+Project name: proj
+Native C compiler: cc (gcc 7.4.0 "cc (Ubuntu 7.4.0-1ubuntu1~18.04) 7.4.0")
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Build targets in project: 1
+Found ninja-1.8.2 at /usr/bin/ninja

@@ -1,0 +1,5 @@
+# ninja log v5
+0	29	1559599944	prog@exe/main.c.o	d0b1e02c70aae5cf
+30	49	1559599944	prog	ed3c0160a0563e65
+0	20	1559600153	prog@exe/main.c.o	d0b1e02c70aae5cf
+20	39	1559600153	prog	ed3c0160a0563e65

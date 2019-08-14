@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/mustapha/dsa/backtracking/egg/build",
+    "command": "c++  -Iprog@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -MD -MQ 'prog@exe/main.cpp.o' -MF 'prog@exe/main.cpp.o.d' -o 'prog@exe/main.cpp.o' -c ../main.cpp",
+    "file": "../main.cpp"
+  }
+]

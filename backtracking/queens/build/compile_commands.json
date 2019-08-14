@@ -1,0 +1,12 @@
+[
+  {
+    "directory": "/home/mustapha/dsa/backtracking/queens/build",
+    "command": "c++  -Iprog@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -MD -MQ 'prog@exe/main.cpp.o' -MF 'prog@exe/main.cpp.o.d' -o 'prog@exe/main.cpp.o' -c ../main.cpp",
+    "file": "../main.cpp"
+  },
+  {
+    "directory": "/home/mustapha/dsa/backtracking/queens/build",
+    "command": "c++  -Iprog@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -Wnon-virtual-dtor -O0 -g -MD -MQ 'prog@exe/board.cpp.o' -MF 'prog@exe/board.cpp.o.d' -o 'prog@exe/board.cpp.o' -c ../board.cpp",
+    "file": "../board.cpp"
+  }
+]

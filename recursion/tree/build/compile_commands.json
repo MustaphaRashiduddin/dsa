@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "/home/mustapha/dsa/datastructures/recursion/tree/build",
+    "command": "cc  -Iprog@exe -I. -I.. -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -O0 -g -MD -MQ 'prog@exe/main.c.o' -MF 'prog@exe/main.c.o.d' -o 'prog@exe/main.c.o' -c ../main.c",
+    "file": "../main.c"
+  }
+]

@@ -1,0 +1,5 @@
+# ninja log v5
+361	434	1562805063	prog	f2bd90cfb92c99da
+1	361	1562805063	prog@exe/main.cpp.o	d24f8e891a96568e
+1	357	1562805079	prog@exe/main.cpp.o	d24f8e891a96568e
+357	427	1562805079	prog	f2bd90cfb92c99da
